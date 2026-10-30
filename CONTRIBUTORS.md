@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [WhiteClueGaming](https://github.com/WhiteClueGaming)
+- Place: India
+- Bio: Web developer
+- Github: [WhiteClueGaming](https://github.com/WhiteClueGaming)
